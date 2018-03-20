@@ -20,7 +20,8 @@ Affiliated organizations:
 	
 *************************************************************************************************
 
-```REQUIREMENTS:
+```
+REQUIREMENTS:
 	Python 2.7
 	packages required: numpy, scipy, networkx, rpy2, sklearn, seaborn, mpl_toolkits
 
