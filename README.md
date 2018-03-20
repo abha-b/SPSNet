@@ -19,7 +19,7 @@ Affiliated organizations:
 	
 *************************************************************************************************
 
-REQUIREMENTS:
+```REQUIREMENTS:
 	Python 2.7
 	packages required: numpy, scipy, networkx, rpy2, sklearn, seaborn, mpl_toolkits
 
@@ -59,5 +59,5 @@ EXPECTED OUTPUT:
 	a. sps_b_0.5: A list of subnetworks reported significant by SPSNet/PFSNet, their p-values, and the genes forming the subnetworks
 	b. pc_loadings.txt: PC loadings (first 3 PCs) corresponding to each significant subnetwork
 	c. sps_pc12.png, sps_pc23.png, sps_pc13.png, sps_pc123.png: PCA scatter plots generated using SPS/PFS scores of significant subnetworks
-	
+```	
 *************************************************************************************************
