@@ -2,7 +2,7 @@
 Code of  SPSNet: Subpopulation-sensitive network-based analysis of heterogeneous gene expression data. BMC Systems Biology, 12(Suppl 2):28, April 2018
 
 *************************************************************************************************
-
+```
 Program description: 
 	This program implements SPSNet, PFSnet as described in the paper -- 
 	Abha Belorkar, Rajanikanth Vadigepalli, and Limsoon Wong. 
@@ -16,6 +16,7 @@ Contact: abha.b.nus@gmail.com, wongls@comp.nus.edu.sg, Rajanikanth.Vadigepalli@j
 Affiliated organizations: 
 	School of Computing, National University of Singapore, Singapore
 	Department of Pathology, Thomas Jefferson University, Philadelphia
+```
 	
 *************************************************************************************************
 
