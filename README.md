@@ -35,8 +35,8 @@ ARGS:
 			Absolute/relative path of the file containing expression matrix for test group samples; tab separated text file; matrix: genes x samples (first column: gene ids/names); first line skipped as header.
 	3. --pathway=<pathway_file> OR -p <pathway_file> (compulsory argument)
 			Tab separated txt file; first line skipped as header; each edge as a row; 3 columns - pathway name<tab>gene_1<tab>gene_2.
-	4. --pathway=<pathway_file> OR -p <pathway_file> (compulsory argument)
-			Tab separated txt file; first line skipped as header; each edge as a row; 3 columns - pathway name<tab>gene_1<tab>gene_2.
+	4. --info=<sample_info_file> OR -i <sample_info_file> (compulsory argument)
+			Tab separated txt file; first line skipped as header; each sample info as a row; 2 columns - sample_name<tab>class.
 	5. --theta1=<theta1_value> OR -h <theta1_value> (optional; default is 0.95)
 			value between 0 to 1; denotes the quantile threshold above which patient gives full vote to a gene.
 	6. --theta2=<theta2_value> OR -l <theta2_value> (optional; default is 0.85)
